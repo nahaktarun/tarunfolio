@@ -13,7 +13,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br />
-        My Personal Tarun's folio
+        Tarun's folio
       </SectionTitle>
       <SectionText>
         I'm Tarun a Great Learner and good programmer. I'm a data scientst and a
